@@ -5,8 +5,8 @@ I am using the following Robotic arm but i dont recommend using this one because
 https://www.amazon.in/dp/B0GRRXLGY8/ref=twister_B0GRRZZ9YV?_encoding=UTF8&th=1
 
 here is the image of the Modified arm attached. I have removed the gripper intentionaly as its difficult to model gripper as oper my initial understandings. 
-![alt text](IMG_20261014_183912826_HDR_AE.jpg)
-![alt text](IMG_20261014_183859355_HDR_AE.jpg)
+![alt text](Misc/IMG_20261014_183912826_HDR_AE.jpg)
+![alt text](Misc/IMG_20261014_183859355_HDR_AE.jpg)
 
 
 
